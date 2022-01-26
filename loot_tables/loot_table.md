@@ -1,5 +1,7 @@
 # Loot Tables
 
+**Rationale**: In the original game some of the monsters have really bad loot table e.g. Spider Queen (66) (just 1 item from the Parts table). Though the monster is tough and rare, it doesn't have anything valuable to loot, which makes you want to just escape the encounter, rather than fight and defeat it. These loot tables are meant to fix the issue and give an incentive to the player to fight the monster. Have fun!
+
 ## 🕷️ Spider Queen
 
 | Roll d10 | Reward       |
